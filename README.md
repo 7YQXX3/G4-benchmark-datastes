@@ -1,6 +1,6 @@
 # G4 Benchmark Datasets for Intracellular G4 Sequencing Data
 
-This repository contains five sets of benchmark datasets for G-quadruplex (G4) sequence data. Each dataset corresponds to a specific GEO accession number, representing the G4 sequence data from different test conditions.
+This repository contains six sets of benchmark datasets for G-quadruplex (G4) sequence data. Each dataset corresponds to a specific GEO accession number, representing the G4 sequence data from different test conditions.
 
 ## Overview
 
